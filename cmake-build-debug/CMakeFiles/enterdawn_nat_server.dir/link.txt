@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/enterdawn_nat_server.dir/main.cpp.o CMakeFiles/enterdawn_nat_server.dir/logs/log.cpp.o CMakeFiles/enterdawn_nat_server.dir/getconn/getconn.cpp.o CMakeFiles/enterdawn_nat_server.dir/conn/conn.cpp.o  -o enterdawn_nat_server   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lpthread 
